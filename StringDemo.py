@@ -1,20 +1,7 @@
-s= "Good Morning"
+S="Tops Technologies"
 print(s)
 print(s.capitalize())
 print(s.casefold())
-print(s.lower())    
 print(s.upper())
-print(s.swapcase())
-print(s.center(40,"*"))
-print(s.count("n"))
-print(s.endswith("ng"))
-print(s.startswith("w"))
-print(s.find("nin"))
-print(s.index("o"))
-print("don12".isalnum())
-print("don".isalnum())
-print("don".isalpha())
-print("122".isnumeric())
-print(s.istitle())
-print(s.islower())
-print("Hello".replace("l","w"))
+print(s.lower())
+ 
